@@ -2,7 +2,7 @@
 - 👀 I’m interested in theatre, dogs, & video games!
 - 🌱 I’m currently learning anything I can.
 - 💞️ I’m looking to collaborate on community & business engagement.
-- 📫 How to reach me . . . amypresley12@gmail.com 
+- 📫 How to reach me amypresley12@gmail.com 
 
 <!---
 AmyPresley/AmyPresley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
